@@ -8,7 +8,7 @@ const PORT = process.env.PORT || 8800;
 
 const doc = {
     info: {
-        title: 'Betel Hospitality API',
+        title: 'The Horizons API',
         description: 'Comprehensive API documentation for Betel Hospitality Platform (Hotels, Tours, Cruises, Buses)',
         version: '1.0.0',
         contact: {
