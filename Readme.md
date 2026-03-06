@@ -1,8 +1,6 @@
-# Betel Hospitality - Full-Stack Booking Platform
+# The Horizons - Full-Stack Booking Platform
 
 A modern, full-stack hospitality platform designed for travelers exploring Vietnam. This comprehensive application provides a seamless experience for booking hotels, tours, cruises, and buses, complete with a powerful admin dashboard for management.
-
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 ---
 
